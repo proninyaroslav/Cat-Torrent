@@ -29,9 +29,6 @@ Already implemented features (help is highly desired!):
  - Ability to create torrents
  - And more
 
-**Originally developed by Yaroslav Pronin:** https://gitlab.com/proninyaroslav/libretorrent
-
-
 Translations
 ---
 
@@ -54,6 +51,9 @@ Screenshots
 ---
 
 ![phone](/doc/screenshots/1.jpeg) ![phone dark](/doc/screenshots/2.jpeg) ![rss](/doc/screenshots/3.jpeg) ![create torrent](/doc/screenshots/4.jpeg) ![tablet](/doc/screenshots/5.jpeg)
+
+**Originally developed by Yaroslav Pronin:** https://gitlab.com/proninyaroslav/libretorrent
+
 
 License
 ---
