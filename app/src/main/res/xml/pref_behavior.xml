@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="@string/pref_key_wifi_only"
+        android:title="@string/pref_wifi_only_title"
+        android:summary="@string/pref_wifi_only_summary" />
+
+    <PreferenceCategory
+        android:title="@string/pref_power_management_category">
+
+        <SwitchPreferenceCompat
+            android:key="@string/pref_key_keep_alive"
+            android:title="@string/pref_keep_alive_title"
+            android:summary="@string/pref_keep_alive_summary" />
+
+        <SwitchPreferenceCompat
+            android:key="@string/pref_key_cpu_do_not_sleep"
+            android:title="@string/pref_cpu_do_not_sleep_title"
+            android:summary="@string/pref_cpu_do_not_sleep_summary" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
